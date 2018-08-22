@@ -1,4 +1,9 @@
-# vue-calculator
+# Grocery Items
+
+## Website
+```
+http://list-grocery-items.surge.sh/#/
+```
 
 ## Project setup
 ```
