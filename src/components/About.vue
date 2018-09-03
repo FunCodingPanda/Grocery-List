@@ -7,7 +7,7 @@
 
 <script>
 export default {
-  name: 'Skills',
+  name: 'Items',
   data() {
     return {
       name: this.$route.params.name
